@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Adam
-- 👀 I’m interested in  front-end development
-- 🌱 I’m currently learning react
+- 👀 I’m interested in  front-end development and cryptocurrencies
+- 🌱 I’m currently learning RWD & JS
 - 💞️ I’m looking to collaborate on open source (basic level)
 - 📫 How to reach me at my e-mail: adm.mzkr@gmail.com
 
